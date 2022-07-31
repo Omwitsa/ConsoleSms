@@ -1,0 +1,101 @@
+C:\Users\dominiccue\Documents\Visual Studio 2012\Projects\signonsms\signonsms\obj\Debug\signonsms.csprojResolveAssemblyReference.cache
+C:\Users\dominiccue\Documents\Visual Studio 2012\Projects\signonsms\signonsms\bin\Debug\signonsms.exe.config
+C:\Users\dominiccue\Documents\Visual Studio 2012\Projects\signonsms\signonsms\bin\Debug\signonsms.exe
+C:\Users\dominiccue\Documents\Visual Studio 2012\Projects\signonsms\signonsms\bin\Debug\signonsms.pdb
+C:\Users\dominiccue\Documents\Visual Studio 2012\Projects\signonsms\signonsms\bin\Debug\MySql.Data.DLL
+C:\Users\dominiccue\Documents\Visual Studio 2012\Projects\signonsms\signonsms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dominiccue\Documents\Visual Studio 2012\Projects\signonsms\signonsms\bin\Debug\System.Net.Http.dll
+C:\Users\dominiccue\Documents\Visual Studio 2012\Projects\signonsms\signonsms\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\dominiccue\Documents\Visual Studio 2012\Projects\signonsms\signonsms\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\dominiccue\Documents\Visual Studio 2012\Projects\signonsms\signonsms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dominiccue\Documents\Visual Studio 2012\Projects\signonsms\signonsms\bin\Debug\System.Net.Http.xml
+C:\Users\dominiccue\Documents\Visual Studio 2012\Projects\signonsms\signonsms\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\dominiccue\Documents\Visual Studio 2012\Projects\signonsms\signonsms\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\dominiccue\Documents\Visual Studio 2012\Projects\signonsms\signonsms\obj\Debug\signonsms.exe
+C:\Users\dominiccue\Documents\Visual Studio 2012\Projects\signonsms\signonsms\obj\Debug\signonsms.pdb
+D:\CLIENTS\SIGNON KENYA\2018\signonsms\signonsms\signonsms\bin\Debug\signonsms.exe.config
+D:\CLIENTS\SIGNON KENYA\2018\signonsms\signonsms\signonsms\obj\Debug\signonsms.exe
+D:\CLIENTS\SIGNON KENYA\2018\signonsms\signonsms\signonsms\obj\Debug\signonsms.pdb
+D:\CLIENTS\SIGNON KENYA\2018\signonsms\signonsms\signonsms\bin\Debug\signonsms.exe
+D:\CLIENTS\SIGNON KENYA\2018\signonsms\signonsms\signonsms\bin\Debug\signonsms.pdb
+D:\CLIENTS\SIGNON KENYA\2018\signonsms\signonsms\signonsms\bin\Debug\Newtonsoft.Json.dll
+D:\CLIENTS\SIGNON KENYA\2018\signonsms\signonsms\signonsms\bin\Debug\System.Net.Http.dll
+D:\CLIENTS\SIGNON KENYA\2018\signonsms\signonsms\signonsms\bin\Debug\System.Net.Http.Formatting.dll
+D:\CLIENTS\SIGNON KENYA\2018\signonsms\signonsms\signonsms\bin\Debug\System.Net.Http.WebRequest.dll
+D:\CLIENTS\SIGNON KENYA\2018\signonsms\signonsms\signonsms\bin\Debug\Newtonsoft.Json.xml
+D:\CLIENTS\SIGNON KENYA\2018\signonsms\signonsms\signonsms\bin\Debug\System.Net.Http.xml
+D:\CLIENTS\SIGNON KENYA\2018\signonsms\signonsms\signonsms\bin\Debug\System.Net.Http.Formatting.xml
+D:\CLIENTS\SIGNON KENYA\2018\signonsms\signonsms\signonsms\bin\Debug\System.Net.Http.WebRequest.xml
+D:\CLIENTS\SIGNON KENYA\2018\signonsms\signonsms\signonsms\obj\Debug\signonsms.csprojResolveAssemblyReference.cache
+E:\SMS\SmsTest\signonsms\signonsms\bin\Debug\signonsms.exe.config
+E:\SMS\SmsTest\signonsms\signonsms\obj\Debug\signonsms.exe
+E:\SMS\SmsTest\signonsms\signonsms\obj\Debug\signonsms.pdb
+E:\SMS\SmsTest\signonsms\signonsms\bin\Debug\signonsms.exe
+E:\SMS\SmsTest\signonsms\signonsms\bin\Debug\signonsms.pdb
+E:\SMS\SmsTest\signonsms\signonsms\bin\Debug\Newtonsoft.Json.dll
+E:\SMS\SmsTest\signonsms\signonsms\bin\Debug\System.Net.Http.dll
+E:\SMS\SmsTest\signonsms\signonsms\bin\Debug\System.Net.Http.Formatting.dll
+E:\SMS\SmsTest\signonsms\signonsms\bin\Debug\System.Net.Http.WebRequest.dll
+E:\SMS\SmsTest\signonsms\signonsms\bin\Debug\Newtonsoft.Json.xml
+E:\SMS\SmsTest\signonsms\signonsms\bin\Debug\System.Net.Http.xml
+E:\SMS\SmsTest\signonsms\signonsms\bin\Debug\System.Net.Http.Formatting.xml
+E:\SMS\SmsTest\signonsms\signonsms\bin\Debug\System.Net.Http.WebRequest.xml
+E:\SMS\SmsTest\signonsms\signonsms\obj\Debug\signonsms.csprojResolveAssemblyReference.cache
+E:\CLIENTS\SAMIL DAIRY\SMS\signonsms\signonsms\bin\Debug\signonsms.exe.config
+E:\CLIENTS\SAMIL DAIRY\SMS\signonsms\signonsms\bin\Debug\signonsms.exe.manifest
+E:\CLIENTS\SAMIL DAIRY\SMS\signonsms\signonsms\bin\Debug\signonsms.application
+E:\CLIENTS\SAMIL DAIRY\SMS\signonsms\signonsms\bin\Debug\signonsms.exe
+E:\CLIENTS\SAMIL DAIRY\SMS\signonsms\signonsms\bin\Debug\signonsms.pdb
+E:\CLIENTS\SAMIL DAIRY\SMS\signonsms\signonsms\bin\Debug\Newtonsoft.Json.dll
+E:\CLIENTS\SAMIL DAIRY\SMS\signonsms\signonsms\bin\Debug\System.Net.Http.dll
+E:\CLIENTS\SAMIL DAIRY\SMS\signonsms\signonsms\bin\Debug\System.Net.Http.Formatting.dll
+E:\CLIENTS\SAMIL DAIRY\SMS\signonsms\signonsms\bin\Debug\System.Net.Http.WebRequest.dll
+E:\CLIENTS\SAMIL DAIRY\SMS\signonsms\signonsms\bin\Debug\Newtonsoft.Json.xml
+E:\CLIENTS\SAMIL DAIRY\SMS\signonsms\signonsms\bin\Debug\System.Net.Http.xml
+E:\CLIENTS\SAMIL DAIRY\SMS\signonsms\signonsms\bin\Debug\System.Net.Http.Formatting.xml
+E:\CLIENTS\SAMIL DAIRY\SMS\signonsms\signonsms\bin\Debug\System.Net.Http.WebRequest.xml
+E:\CLIENTS\SAMIL DAIRY\SMS\signonsms\signonsms\obj\Debug\signonsms.exe.manifest
+E:\CLIENTS\SAMIL DAIRY\SMS\signonsms\signonsms\obj\Debug\signonsms.application
+E:\CLIENTS\SAMIL DAIRY\SMS\signonsms\signonsms\obj\Debug\signonsms.exe
+E:\CLIENTS\SAMIL DAIRY\SMS\signonsms\signonsms\obj\Debug\signonsms.pdb
+E:\CLIENTS\SAMIL DAIRY\SMS\signonsms\signonsms\obj\Debug\signonsms.csprojResolveAssemblyReference.cache
+E:\EASYPRO\SMS\signonsms\signonsms\bin\Debug\signonsms.exe.config
+E:\EASYPRO\SMS\signonsms\signonsms\bin\Debug\signonsms.exe.manifest
+E:\EASYPRO\SMS\signonsms\signonsms\bin\Debug\signonsms.application
+E:\EASYPRO\SMS\signonsms\signonsms\bin\Debug\signonsms.exe
+E:\EASYPRO\SMS\signonsms\signonsms\bin\Debug\signonsms.pdb
+E:\EASYPRO\SMS\signonsms\signonsms\bin\Debug\Newtonsoft.Json.dll
+E:\EASYPRO\SMS\signonsms\signonsms\bin\Debug\System.Net.Http.dll
+E:\EASYPRO\SMS\signonsms\signonsms\bin\Debug\System.Net.Http.Formatting.dll
+E:\EASYPRO\SMS\signonsms\signonsms\bin\Debug\System.Net.Http.WebRequest.dll
+E:\EASYPRO\SMS\signonsms\signonsms\bin\Debug\Newtonsoft.Json.xml
+E:\EASYPRO\SMS\signonsms\signonsms\bin\Debug\System.Net.Http.xml
+E:\EASYPRO\SMS\signonsms\signonsms\bin\Debug\System.Net.Http.Formatting.xml
+E:\EASYPRO\SMS\signonsms\signonsms\bin\Debug\System.Net.Http.WebRequest.xml
+E:\EASYPRO\SMS\signonsms\signonsms\obj\Debug\signonsms.csproj.AssemblyReference.cache
+E:\EASYPRO\SMS\signonsms\signonsms\obj\Debug\signonsms.csproj.CoreCompileInputs.cache
+E:\EASYPRO\SMS\signonsms\signonsms\obj\Debug\signonsms.exe.manifest
+E:\EASYPRO\SMS\signonsms\signonsms\obj\Debug\signonsms.application
+E:\EASYPRO\SMS\signonsms\signonsms\obj\Debug\signonsms.csproj.CopyComplete
+E:\EASYPRO\SMS\signonsms\signonsms\obj\Debug\signonsms.exe
+E:\EASYPRO\SMS\signonsms\signonsms\obj\Debug\signonsms.pdb
+D:\Newtech\SourceCode\CSharp\SMS\signonsms\signonsms\bin\Debug\signonsms.exe.config
+D:\Newtech\SourceCode\CSharp\SMS\signonsms\signonsms\bin\Debug\signonsms.exe.manifest
+D:\Newtech\SourceCode\CSharp\SMS\signonsms\signonsms\bin\Debug\signonsms.application
+D:\Newtech\SourceCode\CSharp\SMS\signonsms\signonsms\bin\Debug\signonsms.exe
+D:\Newtech\SourceCode\CSharp\SMS\signonsms\signonsms\bin\Debug\signonsms.pdb
+D:\Newtech\SourceCode\CSharp\SMS\signonsms\signonsms\bin\Debug\Newtonsoft.Json.dll
+D:\Newtech\SourceCode\CSharp\SMS\signonsms\signonsms\bin\Debug\System.Net.Http.dll
+D:\Newtech\SourceCode\CSharp\SMS\signonsms\signonsms\bin\Debug\System.Net.Http.Formatting.dll
+D:\Newtech\SourceCode\CSharp\SMS\signonsms\signonsms\bin\Debug\System.Net.Http.WebRequest.dll
+D:\Newtech\SourceCode\CSharp\SMS\signonsms\signonsms\bin\Debug\Newtonsoft.Json.xml
+D:\Newtech\SourceCode\CSharp\SMS\signonsms\signonsms\bin\Debug\System.Net.Http.xml
+D:\Newtech\SourceCode\CSharp\SMS\signonsms\signonsms\bin\Debug\System.Net.Http.Formatting.xml
+D:\Newtech\SourceCode\CSharp\SMS\signonsms\signonsms\bin\Debug\System.Net.Http.WebRequest.xml
+D:\Newtech\SourceCode\CSharp\SMS\signonsms\signonsms\obj\Debug\signonsms.csproj.AssemblyReference.cache
+D:\Newtech\SourceCode\CSharp\SMS\signonsms\signonsms\obj\Debug\signonsms.csproj.CoreCompileInputs.cache
+D:\Newtech\SourceCode\CSharp\SMS\signonsms\signonsms\obj\Debug\signonsms.exe.manifest
+D:\Newtech\SourceCode\CSharp\SMS\signonsms\signonsms\obj\Debug\signonsms.application
+D:\Newtech\SourceCode\CSharp\SMS\signonsms\signonsms\obj\Debug\signonsms.csproj.CopyComplete
+D:\Newtech\SourceCode\CSharp\SMS\signonsms\signonsms\obj\Debug\signonsms.exe
+D:\Newtech\SourceCode\CSharp\SMS\signonsms\signonsms\obj\Debug\signonsms.pdb
