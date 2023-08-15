@@ -19,12 +19,14 @@ namespace signonsms
                 {
                     string username = configReader["username"].ToString();
                     string apiKey = configReader["apiKey"].ToString();
+                    string senderId = configReader["SenderId"].ToString();
                     string saccocode = configReader["saccocode"].ToString();
 
                     configs.Add(new MessageConfig
                     {
                         Username = username,
                         ApiKey = apiKey,
+                        SenderId = senderId,
                         Saccocode = saccocode,
                     });
                 }
@@ -34,6 +36,7 @@ namespace signonsms
 
             foreach(var config in configs)
             {
+                config.SenderId = string.IsNullOrEmpty(config.SenderId) ? null : config.SenderId;
                 query = "SELECT * FROM Messages WHERE MsgType = 'Outbox' AND Code='" + config.Saccocode + "'";
                 sqlConnector = new sqlconnectionclass();
                 SqlDataReader messageReader = sqlConnector.ReadDB(query);
@@ -44,9 +47,6 @@ namespace signonsms
                         //string username = "AMTECH_TECH";
                         //string apiKey = "752ae8eed0ea2e06bd5c56a75d5c2ab3e9c5f86ab590fc27b6e1059c6e156665";
 
-                        //string username = "Campus360dev";
-                        //string apiKey = "6645c5ec3750b1cd435459e36073c95c736586ed7b7ccdcf18c4cfd5cc5ebc9c";
-
                         string msgid = messageReader["ID"].ToString().Trim();
                         string telNo = messageReader["telephone"].ToString();
                         string recipients = "+" + telNo;
@@ -55,7 +55,7 @@ namespace signonsms
                         AfricasTalkingGateway gateway = new AfricasTalkingGateway(config.Username, config.ApiKey);
                         try
                         {
-                            dynamic results = gateway.sendMessage(recipients, message, config.Username);
+                            dynamic results = gateway.sendMessage(recipients, message, config.SenderId);
                             foreach (dynamic result in results)
                             {
                                 if ((string)result["status"] == "Success")
