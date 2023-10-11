@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POsSMS", "POsSMS\POsSMS.csproj", "{1B803428-7CF8-40F1-B7CF-32834A05DE9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B803428-7CF8-40F1-B7CF-32834A05DE9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B803428-7CF8-40F1-B7CF-32834A05DE9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B803428-7CF8-40F1-B7CF-32834A05DE9B}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B803428-7CF8-40F1-B7CF-32834A05DE9B}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D4E76F5-7D82-45B6-A362-DB21DB9AB9B8}
+	EndGlobalSection
+EndGlobal
