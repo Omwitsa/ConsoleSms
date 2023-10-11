@@ -7,7 +7,7 @@
     <framework targetVersion="4.8" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="signonsms.exe.manifest" size="4851">
+    <dependentAssembly dependencyType="install" codebase="Application Files\signonsms_1_0_0_13\signonsms.exe.manifest" size="4851">
       <assemblyIdentity name="signonsms.exe" version="1.0.0.13" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
